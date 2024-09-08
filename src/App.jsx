@@ -1,11 +1,14 @@
 import React from 'react';
-import 'App.css'
-
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { Container } from 'react-bootstrap';
+import './App.css'
+import Admin from './components/admin';
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <Container>
+      <h1 className='text-center'>Administrador de pacientes</h1>
+      <Admin></Admin>
+    </Container>
   );
 };
 

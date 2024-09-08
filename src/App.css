@@ -1,0 +1,16 @@
+#root {
+    margin: 0 auto;
+  
+  }
+  .celeste{
+    background-color: lightblue;
+    border: 1px solid lightblue ;
+  }
+  
+  .card-footer{
+    display: flex;
+    justify-content: center;
+  }
+  .crema{
+    background-color: antiquewhite;
+  }
