@@ -1,8 +1,12 @@
-# React + Vite
+# Veterinaria Citas App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web para registrar citas en una veterinaria. Permite a los usuarios llenar un formulario con información obligatoria para registrar una cita, y gestiona la lista de citas utilizando `localStorage`. También incluye la funcionalidad para eliminar citas.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **HTML**: Lenguaje de marcado para estructurar la aplicación.
+- **CSS**: Lenguaje de estilos para la presentación y diseño de la aplicación.
+- **localStorage**: API del navegador para almacenar datos localmente.
+## Para verlo 
+https://9pacientedeveterinaria.netlify.app
