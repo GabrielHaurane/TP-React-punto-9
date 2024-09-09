@@ -1,7 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container } from 'react-bootstrap';
-import Admin from './components/admin';
+import Admin from './components/Admin';
 import './App.css'
 const App = () => {
   return (
